@@ -142,7 +142,7 @@ export default function LandingPage() {
                   <span className="text-xs text-text-secondary leading-relaxed">
                     Download the extension folder from your{' '}
                     <a 
-                      href="https://github.com/YOUR_USERNAME/infinity-ai-extension" 
+                      href="https://github.com/BOL-DEV/InfinityAI-extension" 
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="text-indigo-400 hover:underline inline-flex items-center gap-1 font-medium"
@@ -203,7 +203,7 @@ export default function LandingPage() {
                 Close
               </Button>
               <a 
-                href="https://github.com/YOUR_USERNAME/infinity-ai-extension" 
+                href="https://github.com/BOL-DEV/InfinityAI-extension" 
                 target="_blank" 
                 rel="noopener noreferrer"
               >

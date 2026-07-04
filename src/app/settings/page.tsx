@@ -55,7 +55,7 @@ export default function SettingsPage() {
               <div className="flex items-center gap-3">
                 <span className="flex h-5 w-5 items-center justify-center rounded-full bg-indigo-500/20 text-indigo-400 text-xs font-bold">1</span>
                 <span className="text-xs text-white">
-                  Download the extension folder from your <a href="https://github.com/YOUR_USERNAME/infinity-ai-extension" target="_blank" rel="noopener noreferrer" className="text-indigo-400 hover:underline">GitHub repository</a>
+                  Download the extension folder from your <a href="https://github.com/BOL-DEV/InfinityAI-extension" target="_blank" rel="noopener noreferrer" className="text-indigo-400 hover:underline">GitHub repository</a>
                 </span>
               </div>
               <div className="flex items-center gap-3">
